@@ -1,0 +1,4 @@
+Model,Training Time (seconds)
+Decision Tree,129.438325881958
+Random Forest,129.29324316978455
+Logistic Regression,190.91936779022217
